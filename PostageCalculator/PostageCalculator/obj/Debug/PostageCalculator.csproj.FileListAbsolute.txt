@@ -1,0 +1,6 @@
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\PostageCalculator\PostageCalculator\bin\PostageCalculator.dll.config
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\PostageCalculator\PostageCalculator\bin\PostageCalculator.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\PostageCalculator\PostageCalculator\bin\PostageCalculator.pdb
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\PostageCalculator\PostageCalculator\obj\Debug\PostageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\PostageCalculator\PostageCalculator\obj\Debug\PostageCalculator.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\PostageCalculator\PostageCalculator\obj\Debug\PostageCalculator.pdb
